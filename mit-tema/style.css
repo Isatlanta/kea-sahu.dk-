@@ -1,0 +1,36 @@
+/* 
+	Theme Name: mit_tema
+	Template: astra 
+	Version: 4.1.4
+	Theme URI: https://wpastra.com/
+	Author: Brainstorm Force
+	Author URI: https://wpastra.com/about/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme
+	Description: Astra Child Theme
+	Author: Isabell Skov
+	*/
+
+div.entry-meta {
+  display: none;
+}
+
+div#respond.comment-respond {
+  display: none;
+}
+
+@font-face {
+  font-family: Kuzimy;
+  src: url(fonts/kuzimy/kuzimypersonaluse.otf);
+}
+
+@font-face {
+  font-family: Asyatu;
+  src: url(fonts/asyatu/Asyatupersonaluse.otf);
+}
+
+h1 {
+  font-family: "Kuzimy", Arial, sans-serif !important;
+}
+
+h2 {
+  font-family: "Asyatu" !important;
+}

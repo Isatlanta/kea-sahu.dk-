@@ -1,0 +1,65 @@
+div.entry-meta {
+  display: none;
+}
+
+div#respond.comment-respond {
+  display: none;
+}
+
+@font-face {
+  font-family: Kuzimy;
+  src: url(fonts/kuzimy/kuzimypersonaluse.otf);
+}
+
+@font-face {
+  font-family: Asyatu;
+  src: url(fonts/asyatu/Asyatupersonaluse.otf);
+}
+
+@font-face {
+  font-family: Great Vibes;
+  src: url(fonts/Great_Vibes/GreatVibes-Regular.ttf);
+}
+@font-face {
+  font-family: Apple Chancery;
+  src: url(fonts/Apple_Chancery_Regular/Apple_Chancery_Regular.ttf);
+}
+
+/* h1 {
+  font-family: "Asyatu" !important;
+  font-weight: 200 !important;
+} */
+
+/* h2 {
+  font-family: "Asyatu" !important;
+} */
+
+/* .site-header {
+  position: sticky;
+} */
+
+/* .main-header-bar {
+  position: sticky !important;
+} */
+
+h1.elementor-heading-title {
+  font-family: "Great Vibes" !important;
+}
+
+.main-header-menu {
+  font-family: "Apple Chancery" !important;
+  font-size: 18px !important;
+  font-weight: 200 !important;
+}
+
+h2.elementor-heading-title {
+  font-family: "Apple Chancery" !important;
+}
+
+h1.woocommerce-products-header__title {
+  font-family: "Great Vibes" !important;
+}
+
+.site-header-primary-section-right-center {
+  justify-content: flex-end !important;
+}
